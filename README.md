@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Mongd 👋
 
-<!--
-**mongd-amasha/mongd-amasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd Year Computer Science student at Tel-Hai College with a focus on software and backend development. I enjoy solving problems, building practical projects, and continuously improving my technical skills.
 
-Here are some ideas to get you started:
+### 💻 Technologies I Work With
+**Languages:** Python, Java, C#, C/C++, JavaScript  
+**Web & Backend:** HTML, CSS, Node.js  
+**Databases:** MongoDB  
+**Environments:** Linux, Git, VS Code, Visual Studio  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Goals
+- Upload and organize my academic & personal projects
+- Build a portfolio that reflects my skills
+- Aim for internship / junior backend development roles
