@@ -7,8 +7,3 @@
 **Web & Backend:** HTML, CSS, Node.js  
 **Databases:** MongoDB  
 **Environments:** Linux, Git, VS Code, Visual Studio  
-
-### 🚀 Current Goals
-- Upload and organize my academic & personal projects
-- Build a portfolio that reflects my skills
-- Aim for internship / junior backend development roles
